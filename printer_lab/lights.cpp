@@ -12,7 +12,6 @@ const int PIXELPIN = D3;
 const int PIXELCOUNT = 30;
 const int BUTTONPIN = D2;
 
-//test
 
 Adafruit_NeoPixel pixel(PIXELCOUNT,PIXELPIN,NEO_GRB + NEO_KHZ800 );
 
